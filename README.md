@@ -1,6 +1,6 @@
 # American Sign Language (ASL) Letter Classification
 
-American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. This project aims to build a convolutional neural network (CNN) to classify images of ASL letters. The CNN will be trained to recognize individual letters, which can be a first step towards developing a sign language translation system.
+American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. This project aims to build a convolutional neural network (CNN) to classify images of ASL letters. The CNN will be trained to recognize individual letters, which can be a first step toward developing a sign language translation system.
 
 ## Dataset
 
@@ -49,4 +49,4 @@ pip install tensorflow keras matplotlib
 ```
 
 ## Credits
-This project was developed as part of an internship under Medtoureasy . The dataset used in this project is obtained from [Here](https://drive.google.com/uc?export=download&id=1o3Eu6DLIc2UYSV0dkUML8BUxsHfBE68J).
+This project was developed as part of an internship under Medtoureasy. The dataset used in this project is obtained from [this drive link](https://drive.google.com/uc?export=download&id=1o3Eu6DLIc2UYSV0dkUML8BUxsHfBE68J).
